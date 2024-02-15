@@ -13,24 +13,24 @@ name                     : &name "Renu Sankhla"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "B21AI028/B21AI028.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Renu Sankhla"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I'm a 3rd Year UG student pursuing a B.Tech in Artificial Intelligence & Data Science at the Indian Institute of Technology, Jodhpur. I'm driven by a deep passion for the field of AI and its transformative potential. I aspire to actively contribute to this dynamic field through innovative research, development, and practical applications. My goal is to harness the power of AI to address complex challenges and drive positive change."
   pronouns         : # example: "she/her"
   location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-5553-2068"
   employer         :
   email            :  
   uri              :
 
   # Manuscript repositories
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Renu+Sankhla+(B21AI028)"         # Update with the correct link to your profile
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Renu-Sankhla"
 
   # Social media
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "B21AI028"
   goodreads        :
   google_plus      :
   keybase          :
