@@ -19,9 +19,7 @@ repository               : "B21AI028/B21AI028.github.io"
 author:
   name             : "Renu Sankhla"
   avatar           : "profile.png"
-  bio              : "I'm a 3rd Year UG student pursuing a B.Tech in Artificial Intelligence & Data Science at the Indian Institute of Technology, Jodhpur. I'm driven by a deep passion for the field of AI and its transformative potential. I aspire to actively contribute to this dynamic field through innovative research, development, and practical applications. My goal is to harness the power of AI to address complex challenges and drive positive change."
-  pronouns         : # example: "she/her"
-  location         : "Location"
+  bio              : "I'm a 3rd Year UG student pursuing a B.Tech in Artificial Intelligence & Data Science at the Indian Institute of Technology, Jodhpur."
   orcid            : "https://orcid.org/0009-0005-5553-2068"
   employer         :
   email            :  
