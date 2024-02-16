@@ -5,13 +5,13 @@ main:
     url: /publications/
     
   - title: "Experience"
-    url: /_pages/experience.md 
+    url: /experience/ 
 
   - title: "Projects"
     url: /projects/    
     
   - title: "Competitions"
-    url: /_pages/competitions.md
+    url: /competitions/
         
   - title: "Blogs"
     url: https://karan3-zoh.medium.com/
