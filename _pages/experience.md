@@ -16,7 +16,7 @@ Under the guidance of Dr. Chiranjib Sur | May 2024 - July 2024</p>
   <li>Conducted comparative analysis against state-of-the-art models (FaceNet, DeepFace) with rigorous statistical validation.</li>
 </ul>
 
-<p><strong>Machine Learning Engineer - Inter IIT Tech Meet</strong><br>
+<p><strong>Machine Learning Developer- Inter IIT Tech Meet</strong><br>
 High Prep Problem Statement - AI Agent Development, IIT Madras<br>
 Nov 2023 - Dec 2023</p>
 <ul>
