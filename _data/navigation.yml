@@ -1,8 +1,7 @@
 # main links links
 main:
 
-  - title: "Publications"
-    url: https://drive.google.com/file/d/1TIFh8Tu4oAw5r2D8xUM0TIVa8DpQEXfn/view?usp=sharing
+
     
   - title: "Experience"
     url: /experience/ 
@@ -10,15 +9,20 @@ main:
   - title: "Projects"
     url: /projects/    
     
+  - title: "CV"
+    url: https://drive.google.com/file/d/1R4Z3xTWzaF7wIGVbmU6cw63J7nem1Idg/view?usp=sharing
+    
   - title: "Competitions"
     url: /competitions/
         
   - title: "Blogs"
     url: https://medium.com/@sankhla.2
     
+    - title: "Publications"
+    url: https://drive.google.com/file/d/1TIFh8Tu4oAw5r2D8xUM0TIVa8DpQEXfn/view?usp=sharing
+    
   - title: "Coding profile"
     url: https://clist.by/coder/sankhla_2/
     
-  - title: "CV"
-    url: https://drive.google.com/file/d/14Sv18hoJlNfzawg8UwdccXDgJo1VC9uv/view?usp=sharing
+
 
